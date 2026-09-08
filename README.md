@@ -16,7 +16,7 @@
 
 <br>
 
-An Informatics Student, currently exploring different paths in the tech world with a strong interest in cloud computing. I'm still learning and building my foundational skills, and I'm excited to continue growing and discovering where my journey in technology will take me.
+A fresh graduate who enjoys analyzing, coding, and testingt
 
 ## Github Stats
 <!-- ![Abeyynz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeyynz&show_icons=true)
